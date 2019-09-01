@@ -1,3 +1,6 @@
+%%GNU GENERAL PUBLIC LICENSE
+%% Code written by Mustafa Mir. mustafa.mir@gmail.com. 2019
+
 clear all
 % dir_path='F:\ORC\2018_11_08_orc\WAB1_cropped\';
 % dir_path='E:\Mustafa\ORC_mitosis\WAB1_cropped\';
